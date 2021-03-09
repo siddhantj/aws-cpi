@@ -1,0 +1,18 @@
+{
+  "dataset_id": "aae4c2cd145a48454f9369d4a4db5c66",
+  "revision_id": "5715bc7a1737863a0a2f378e929fffca",
+  "dataFilesMap": {
+    "world_bank_cpi": [
+      {
+        "bucket": "datas3bucket20210309031512281800000001",
+        "key": "adx-cpi/aae4c2cd145a48454f9369d4a4db5c66/5715bc7a1737863a0a2f378e929fffca/epoch1615260374-1615260433.json",
+        "version": null
+      },
+      {
+        "bucket": "datas3bucket20210309031512281800000001",
+        "key": "adx-cpi/aae4c2cd145a48454f9369d4a4db5c66/5715bc7a1737863a0a2f378e929fffca/manifest1615260374-1615260433.json",
+        "version": null
+      }
+    ]
+  }
+}
